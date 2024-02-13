@@ -17,7 +17,7 @@
 ## Lista del Hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
-|    |            |             |        |          |             |
+| 1  | ESP32      | Microcontrolador que ayudara a cargar el codigo y hacer funcionar los sensores y controladores |        |          |             |
 |    |            |             |        |          |             |
 |    |            |             |        |          |             |
 
