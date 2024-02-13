@@ -6,6 +6,7 @@
 - Hernández Negrete Alejandro
 - Vega Cervantes Salvador
 
+# Hola? Ramirin
 ## Carta de liberación del proyecto
 - Dirigida al Docente
 - Debe de expresar las funcionalidades que tiene el proyecto
