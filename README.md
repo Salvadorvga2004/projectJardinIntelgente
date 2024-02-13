@@ -17,8 +17,8 @@
 ## Lista del Hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
-| 1  | ESP32      | Microcontrolador que ayudara a cargar el codigo, hará funcionar los sensores y controladores |  | 1 | $140.00 |
-| 2  | Raspberry PI | Tiene la capacidad para interactuar con sensores y dispositivos externos, así como para conectarse a redes y enviar datos a la nube | ![ESP32]([https://github.com/Alejandrox666/Personaje_Navideno/blob/main/WhatsApp%20Image%202023-09-28%20at%205.13.07%20PM.jpeg](https://cdn-reichelt.de/bilder/web/xxl_ws/A300/SBC-NODEMCU-ESP32-01.png)]) | 1 | $1,891 |
+| 1  | ESP32      | Microcontrolador que ayudara a cargar el codigo, hará funcionar los sensores y controladores | ![ESP32](https://cdn-reichelt.de/bilder/web/xxl_ws/A300/SBC-NODEMCU-ESP32-01.png) | 1 | $140.00 |
+| 2  | Raspberry PI | Tiene la capacidad para interactuar con sensores y dispositivos externos, así como para conectarse a redes y enviar datos a la nube |  | 1 | $1,891 |
 |    |            |             |        |          |             |
 
 ## Lista de Software utilizado
