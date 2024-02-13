@@ -18,7 +18,7 @@
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
 | 1  | ESP32      | Microcontrolador que ayudara a cargar el codigo, hará funcionar los sensores y controladores |  | 1 | $140.00 |
-| 2  | Raspberry PI | Tiene la capacidad para interactuar con sensores y dispositivos externos, así como para conectarse a redes y enviar datos a la nube |        |          |             |
+| 2  | Raspberry PI | Tiene la capacidad para interactuar con sensores y dispositivos externos, así como para conectarse a redes y enviar datos a la nube |  | 1 | $1,891 |
 |    |            |             |        |          |             |
 
 ## Lista de Software utilizado
