@@ -18,15 +18,13 @@
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
 | 1  | ESP32      | Microcontrolador que ayudara a cargar el codigo, hará funcionar los sensores y controladores | ![ESP32](https://cdn-reichelt.de/bilder/web/xxl_ws/A300/SBC-NODEMCU-ESP32-01.png) | 1 | $140.00 |
-| 2  | Raspberry PI | Tiene la capacidad para interactuar con sensores y dispositivos externos, así como para conectarse a redes y enviar datos a la nube |  | 1 | $1,891 |
-|    |            |             |        |          |             |
+| 2  | Raspberry PI | Tiene la capacidad para interactuar con sensores y dispositivos externos, así como para conectarse a redes y enviar datos a la nube | ![RaspBerry Pi 4](https://agelectro904833371.files.wordpress.com/2019/10/board_02.png?w=1024) | 1 | $1,891.00 |
 
 ## Lista de Software utilizado
 | Id | Software | Version | Tipo |
 |----|----------|---------|------|
-|    |          |         |      |
-|    |          |         |      |
-|    |          |         |      |
+| 1  | Thonny   | 4.1.2   | Entorno de desarrollo integrado (IDE) |
+
 
 ## Visión del producto
 ¿Como generar la visión del proyecto?
