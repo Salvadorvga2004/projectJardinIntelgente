@@ -4,9 +4,7 @@
 - Lista de los integrantes (Nombre completo y Numero de control)
 - Herrera Ramiro - 1222100418
 - Hernández Negrete Alejandro
-- Vega Cervantes Salvador
-
-# hola ramirin
+- Vega Cervantes Salvador - 1222100485
 
 ## Carta de liberación del proyecto
 - Dirigida al Docente
